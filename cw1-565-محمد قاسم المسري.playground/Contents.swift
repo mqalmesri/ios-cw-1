@@ -11,3 +11,5 @@ print(" my name is", myName)
 print(" my hobby1 is", hobby1)
 print( " my hobby2 is", hobby2)
 print( " my age is", age)
+
+print( " my name is",myName, " my hobby is", hobby1, "and my second hobby is", hobby2," and my age is", age)
