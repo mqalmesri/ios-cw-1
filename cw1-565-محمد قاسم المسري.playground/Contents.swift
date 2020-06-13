@@ -13,3 +13,16 @@ print( " my hobby2 is", hobby2)
 print( " my age is", age)
 
 print( " my name is",myName, " my hobby is", hobby1, "and my second hobby is", hobby2," and my age is", age)
+
+var friendName = " Ali "
+var friendHobby1 = " football"
+var friendHobby2 = " swimming"
+var friendAge = 18
+var friendhight =  176.6
+
+myName == friendName
+
+age > friendAge
+hight > friendhight
+hobby1 != friendHobby1
+hobby2 == friendHobby2 
