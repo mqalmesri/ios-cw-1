@@ -26,4 +26,5 @@ age > friendAge
 hight > friendhight
 hobby1 != friendHobby1
 hobby2 == friendHobby2
- age - friendAge 
+ age - friendAge
+
